@@ -56,7 +56,7 @@ cover.html
             <div class="item">
                 <img src="img.png.jpg">
                 <div class="author">
-                    <h3>K.Shanmuga priya</h3>
+                    <h3>K.Shanmuga priya(25004352)</h3>
                     <p class="words">K.Shanmuga priya is a student in saveetha engineering college studying 1st year CSE department and writer of this book</p>
                 </div>
             </div>
@@ -158,7 +158,7 @@ padding: 10px;
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (37).png>)
+![alt text](<Screenshot (38).png>)
 
 ## RESULT:
 The program for designing book back cover page using HTML and CSS is completed successfully.
